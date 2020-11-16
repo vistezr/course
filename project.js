@@ -1,1 +1,1 @@
-this
+setTimeout(0x12c)
